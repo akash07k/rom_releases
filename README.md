@@ -36,6 +36,6 @@ My rom builds for Poco F4 (munch)
 * [Buy me a Coffee](https://www.buymeacoffee.com/akashk07)
 
 ## Downloads -
-* [Download Latest EvolutionX]()
-* [Download Latest crDroid]()
+* [Download Latest EvolutionX](https://drive.google.com/drive/folders/1BFRHojKR5eQr8rSGpbt5ycnUITKuEjFI?usp=sharing)
+* [Download Latest crDroid](https://drive.google.com/drive/folders/1lRJLqApNmiSTnGYTxcjxW0Cbe_M7KiKy?usp=sharing)
 
