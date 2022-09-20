@@ -7,22 +7,16 @@ My rom builds for Poco F4 (munch)
 
 ### For Clean Installation -
 
-1. Make sure your bootloader is unlocked.
-
-2. Flash OrrangeFox recovery if not flashed already
-
-3. Boot to OrrangeFox
-
-4. After that do a factory reset/data format in OrrangeFox.
-
-5. Now, copy the Rom zip to your phone via a data cable and flash the zip.
+* Make sure your bootloader is unlocked.
+* Flash OrrangeFox recovery if not flashed already
+* Boot to OrrangeFox
+* After that do a factory reset/data format in OrrangeFox.
+* Now, copy the Rom zip to your phone via a data cable and flash the zip.
 
 ### For Dirty Installation-
 
-1. Copy the ROM zip to your phone via data cable and then flash the zip from OrrangeFox.
-
-2. Wipe cache & boot into system.
-
+* Copy the ROM zip to your phone via data cable and then flash the zip from OrrangeFox.
+* Wipe cache & boot into system.
 
 ## OPTIONAL- Rooting
 
@@ -36,6 +30,7 @@ My rom builds for Poco F4 (munch)
 * [Buy me a Coffee](https://www.buymeacoffee.com/akashk07)
 
 ## Downloads -
-* [Download Latest EvolutionX](https://drive.google.com/drive/folders/1BFRHojKR5eQr8rSGpbt5ycnUITKuEjFI?usp=sharing)
-* [Download Latest crDroid](https://drive.google.com/drive/folders/1lRJLqApNmiSTnGYTxcjxW0Cbe_M7KiKy?usp=sharing)
+* All rom releases can be downloaded from [here](https://drive.google.com/drive/folders/1E35dQSBl5BN2FZ2m2YQuQtR6-axq-W6b?usp=sharing)
 
+## ChangeLog
+* ChangeLog can be found [here](./changelog.md)
