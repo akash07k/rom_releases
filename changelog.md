@@ -1,4 +1,19 @@
-## EvolutionX
+## crDroid
+### 6th october, 2022
+
+* Fixed smart charging
+* munch: Update audio props from stock
+* munch: Patch vendor.qti.hardware.camera.postproc@1.0-service-impl.so
+* munch: Update MIUI blobs to V13.0.5.0.SLMMIXM
+* munch: included firmware
+* sm8250-common: Use RSA4096 key also for vbmeta_system
+* sm8250-common: Drop PRODUCT_BUILD_SUPER_PARTITION
+* sm8250-common: Build default health HIDL recovery impl
+* sm8250-common: audio: Remove duplicated voip_tx route
+* Kernel updates
+* Huge under the hood changes
+* Synced with latest crDroid sources
+# EvolutionX
 ### 21st September, 2022
 
 * Huge device overlay updates
