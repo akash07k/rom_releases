@@ -20,6 +20,9 @@
 
 # EvolutionX
 ### 8th october, 2022
+* Official update
+
+### 8th october, 2022
 * October security patch
 * munch: Fixed bluetooth
 * munch: Fixed Audio
