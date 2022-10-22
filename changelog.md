@@ -19,7 +19,13 @@
 * Synced with latest crDroid sources
 
 # EvolutionX
-### 8th october, 2022
+### 22nd october, 2022
+* Added Dolbi vision and Dolbi atmos (Thanks to @spkal07)
+* Rebased the trees to @spkal01's trees
+* Many optimizations
+* Added GCamGo
+
+### 13th october, 2022
 * Official update
 
 ### 8th october, 2022
